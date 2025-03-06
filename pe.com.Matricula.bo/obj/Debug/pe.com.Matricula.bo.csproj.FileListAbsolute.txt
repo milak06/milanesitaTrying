@@ -1,0 +1,18 @@
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.bo\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.bo\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.csproj.AssemblyReference.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.bo\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.bo\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.csproj.AssemblyReference.cache
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.bo\bin\Debug\pe.com.Matricula.bo.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.bo\bin\Debug\pe.com.Matricula.bo.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.csproj.AssemblyReference.cache
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.csproj.CoreCompileInputs.cache
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.bo\obj\Debug\pe.com.Matricula.bo.pdb

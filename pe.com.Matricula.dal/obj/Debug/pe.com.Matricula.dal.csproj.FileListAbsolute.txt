@@ -1,0 +1,45 @@
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.AssemblyReference.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.CoreCompileInputs.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.M.14BE14EA.Up2Date
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.AssemblyReference.cache
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.M.14BE14EA.Up2Date
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.dll
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.dll
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.AssemblyReference.cache
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.CopyComplete
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.dll
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.AssemblyReference.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.CoreCompileInputs.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.M.14BE14EA.Up2Date
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.dal.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\bin\Debug\pe.com.Matricula.bo.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.AssemblyReference.cache
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.csproj.CoreCompileInputs.cache
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.M.14BE14EA.Up2Date
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.dal\obj\Debug\pe.com.Matricula.dal.pdb

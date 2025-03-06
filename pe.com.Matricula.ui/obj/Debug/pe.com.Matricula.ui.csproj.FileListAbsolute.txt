@@ -1,0 +1,101 @@
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe.config
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.AssemblyReference.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmLogin.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmMenuPrincipal.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmRegistroMatricula.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.Properties.Resources.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.GenerateResource.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.CoreCompileInputs.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.exe
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.M.65A2904E.Up2Date
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmCrearMatricula.resources
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.AssemblyReference.cache
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmCrearMatricula.resources
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmLogin.resources
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmMenuPrincipal.resources
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmRegistroMatricula.resources
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.Properties.Resources.resources
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.GenerateResource.cache
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.exe
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe.config
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.dll
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Dasha\Downloads\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.M.65A2904E.Up2Date
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.AssemblyReference.cache
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.SuggestedBindingRedirects.cache
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmCrearMatricula.resources
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmLogin.resources
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmMenuPrincipal.resources
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmRegistroMatricula.resources
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.Properties.Resources.resources
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.GenerateResource.cache
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.exe
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe.config
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.dll
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.dll
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.dll
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.pdb
+D:\Descargas\ProyectoMatricula\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.CopyComplete
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe.config
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.dll
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.pdb
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.AssemblyReference.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmCrearMatricula.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmLogin.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmMenuPrincipal.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmRegistroMatricula.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.Properties.Resources.resources
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.GenerateResource.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.CoreCompileInputs.cache
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.M.65A2904E.Up2Date
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.exe
+C:\Users\Andrea PC\Desktop\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe.config
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.exe
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.ui.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.dll
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bal.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.bo.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\bin\Debug\pe.com.Matricula.dal.pdb
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.AssemblyReference.cache
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmCrearMatricula.resources
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmLogin.resources
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmMenuPrincipal.resources
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.FrmRegistroMatricula.resources
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.Properties.Resources.resources
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.GenerateResource.cache
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.csproj.CoreCompileInputs.cache
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.M.65A2904E.Up2Date
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.exe
+E:\New folder\aca\ProyectoMatriculacone\Matricula\pe.com.Matricula.ui\obj\Debug\pe.com.Matricula.ui.pdb

@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|e:\\new folder\\aca\\proyectomatriculacone\\matricula\\pe.com.matricula.dal\\apoderadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\apoderadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499347D-7652-432C-98F1-831EEF43E647}|pe.com.Matriculaa.ui\\pe.com.Matriculaa.ui.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matriculaa.ui\\frmconsultamatricula.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499347D-7652-432C-98F1-831EEF43E647}|pe.com.Matriculaa.ui\\pe.com.Matriculaa.ui.csproj|solutionrelative:pe.com.matriculaa.ui\\frmconsultamatricula.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499347D-7652-432C-98F1-831EEF43E647}|pe.com.Matriculaa.ui\\pe.com.Matriculaa.ui.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matriculaa.ui\\frmconsultamatricula.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A499347D-7652-432C-98F1-831EEF43E647}|pe.com.Matriculaa.ui\\pe.com.Matriculaa.ui.csproj|solutionrelative:pe.com.matriculaa.ui\\frmconsultamatricula.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\matriculabal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\matriculabal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.dal\\matriculadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\matriculadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.dal\\gradodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\gradodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bo\\apoderadobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|solutionrelative:pe.com.matricula.bo\\apoderadobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\apoderadobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\apoderadobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\sexobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\sexobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B173970B-A45F-4088-9E1B-3D2681737B6D}|pe.com.Matricula.ui\\pe.com.Matricula.ui.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.ui\\frmcrearmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B173970B-A45F-4088-9E1B-3D2681737B6D}|pe.com.Matricula.ui\\pe.com.Matricula.ui.csproj|solutionrelative:pe.com.matricula.ui\\frmcrearmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.dal\\sexodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\sexodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bo\\estudiantebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|solutionrelative:pe.com.matricula.bo\\estudiantebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B173970B-A45F-4088-9E1B-3D2681737B6D}|pe.com.Matricula.ui\\pe.com.Matricula.ui.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.ui\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B173970B-A45F-4088-9E1B-3D2681737B6D}|pe.com.Matricula.ui\\pe.com.Matricula.ui.csproj|solutionrelative:pe.com.matricula.ui\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B173970B-A45F-4088-9E1B-3D2681737B6D}|pe.com.Matricula.ui\\pe.com.Matricula.ui.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.ui\\frmregistromatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B173970B-A45F-4088-9E1B-3D2681737B6D}|pe.com.Matricula.ui\\pe.com.Matricula.ui.csproj|solutionrelative:pe.com.matricula.ui\\frmregistromatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bo\\matriculabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|solutionrelative:pe.com.matricula.bo\\matriculabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.dal\\estudiantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\estudiantedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\estudiantebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\estudiantebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.dal\\niveldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\niveldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.dal\\distritodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\distritodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.dal\\conexiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC76343-407E-42A7-A7C2-5C5B12C990B2}|pe.com.Matricula.dal\\pe.com.Matricula.dal.csproj|solutionrelative:pe.com.matricula.dal\\conexiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\utilidadbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\utilidadbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\usuariobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\usuariobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\nivelbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\nivelbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\gradobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\gradobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bal\\distritobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6962A1-8EE1-495C-974C-7CB1A8C9A3C7}|pe.com.Matricula.bal\\pe.com.Matricula.bal.csproj|solutionrelative:pe.com.matricula.bal\\distritobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bo\\gradobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|solutionrelative:pe.com.matricula.bo\\gradobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bo\\nivelbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|solutionrelative:pe.com.matricula.bo\\nivelbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bo\\distritobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|solutionrelative:pe.com.matricula.bo\\distritobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.matricula.bo\\sexobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C70BB-BCA7-4C0E-A6CD-83592DC05A1B}|pe.com.Matricula.bo\\pe.com.Matricula.bo.csproj|solutionrelative:pe.com.matricula.bo\\sexobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 186,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApoderadoDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\ApoderadoDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\ApoderadoDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\ApoderadoDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\ApoderadoDAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:33:06.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatriculaDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\MatriculaDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\MatriculaDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\MatriculaDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\MatriculaDAL.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:10:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradoDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\GradoDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\GradoDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\GradoDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\GradoDAL.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAWwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:17:43.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApoderadoBO.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\ApoderadoBO.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bo\\ApoderadoBO.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\ApoderadoBO.cs",
+              "RelativeToolTip": "pe.com.Matricula.bo\\ApoderadoBO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAABQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:25:52.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmConsultaMatricula.aspx",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx",
+              "RelativeDocumentMoniker": "pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx",
+              "RelativeToolTip": "pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-20T18:52:59.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConsultaMatricula.aspx.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx.cs",
+              "RelativeDocumentMoniker": "pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx.cs",
+              "RelativeToolTip": "pe.com.Matriculaa.ui\\frmConsultaMatricula.aspx.cs",
+              "ViewState": "AgIAAJcCAAAAAAAAAAAIwKYCAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:05:54.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatriculaBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\MatriculaBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\MatriculaBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\MatriculaBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\MatriculaBAL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:01:08.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApoderadoBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\ApoderadoBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\ApoderadoBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\ApoderadoBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\ApoderadoBAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:06:07.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SexoBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\SexoBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\SexoBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\SexoBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\SexoBAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:46:18.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmCrearMatricula.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.ui\\FrmCrearMatricula.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.ui\\FrmCrearMatricula.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.ui\\FrmCrearMatricula.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pe.com.Matricula.ui\\FrmCrearMatricula.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:58:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SexoDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\SexoDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\SexoDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\SexoDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\SexoDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:59:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstudianteBO.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\EstudianteBO.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bo\\EstudianteBO.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\EstudianteBO.cs",
+              "RelativeToolTip": "pe.com.Matricula.bo\\EstudianteBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:43:58.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.ui\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.ui\\FrmMenuPrincipal.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.ui\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pe.com.Matricula.ui\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:58:29.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmRegistroMatricula.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.ui\\FrmRegistroMatricula.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.ui\\FrmRegistroMatricula.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.ui\\FrmRegistroMatricula.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pe.com.Matricula.ui\\FrmRegistroMatricula.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:58:16.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EstudianteDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\EstudianteDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\EstudianteDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\EstudianteDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\EstudianteDAL.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAowEkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:02:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MatriculaBO.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\MatriculaBO.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bo\\MatriculaBO.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\MatriculaBO.cs",
+              "RelativeToolTip": "pe.com.Matricula.bo\\MatriculaBO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:06:29.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EstudianteBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\EstudianteBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\EstudianteBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\EstudianteBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\EstudianteBAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:59:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NivelDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\NivelDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\NivelDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\NivelDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\NivelDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:02:36.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DistritoDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\DistritoDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\DistritoDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\DistritoDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\DistritoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:42:24.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConexionDAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\ConexionDAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.dal\\ConexionDAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.dal\\ConexionDAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.dal\\ConexionDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:33:10.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\UsuarioBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\UsuarioBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\UsuarioBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\UsuarioBAL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:32:57.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NivelBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\NivelBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\NivelBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\NivelBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\NivelBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:02:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GradoBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\GradoBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\GradoBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\GradoBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\GradoBAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:50:11.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DistritoBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\DistritoBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\DistritoBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\DistritoBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\DistritoBAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:47:17.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UtilidadBAL.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\UtilidadBAL.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bal\\UtilidadBAL.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bal\\UtilidadBAL.cs",
+              "RelativeToolTip": "pe.com.Matricula.bal\\UtilidadBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:23:22.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GradoBO.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\GradoBO.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bo\\GradoBO.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\GradoBO.cs",
+              "RelativeToolTip": "pe.com.Matricula.bo\\GradoBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:08:50.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NivelBO.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\NivelBO.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bo\\NivelBO.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\NivelBO.cs",
+              "RelativeToolTip": "pe.com.Matricula.bo\\NivelBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:02:29.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DistritoBO.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\DistritoBO.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bo\\DistritoBO.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\DistritoBO.cs",
+              "RelativeToolTip": "pe.com.Matricula.bo\\DistritoBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:39:17.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SexoBO.cs",
+              "DocumentMoniker": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\SexoBO.cs",
+              "RelativeDocumentMoniker": "pe.com.Matricula.bo\\SexoBO.cs",
+              "ToolTip": "E:\\New folder\\aca\\ProyectoMatriculacone\\Matricula\\pe.com.Matricula.bo\\SexoBO.cs",
+              "RelativeToolTip": "pe.com.Matricula.bo\\SexoBO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:46:40.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
